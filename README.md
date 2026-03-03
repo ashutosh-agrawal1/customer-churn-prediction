@@ -167,7 +167,7 @@ This will:
 ## 📂 Project Structure
 
 ```
-churn-prediction-numpy/
+customer-churn-prediction/
 │
 ├── data/
 │   └── data_set.csv
