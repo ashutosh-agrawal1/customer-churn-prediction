@@ -148,7 +148,7 @@ pip install -r requirements.txt
 ```
 # Download dataset from Kaggle and place in /data/
 ```
-# https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ```
 # Run training and comparison
 ```
