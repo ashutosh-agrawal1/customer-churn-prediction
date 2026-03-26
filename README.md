@@ -178,7 +178,7 @@ matplotlib==3.7.2
 streamlit
 ```
 
----
+
 
 ## 📌 Limitations
 
@@ -186,7 +186,7 @@ streamlit
 - Single train-test split — no cross-validation yet
 - Limited to features available in this dataset
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -198,7 +198,7 @@ streamlit
 - [ ] Threshold tuning for business-specific optimization
 - [ ] Enhanced feature set (TotalCharges, InternetService, etc.)
 
----
+
 
 ## 👨‍💻 Author
 
@@ -213,4 +213,4 @@ ECE Undergraduate
 - LinkedIn: https://www.linkedin.com/in/ashutosh-agrawal-823753238  
 - X: https://x.com/hey_its_ashh  
 - Email: ashutosh69003@gmail.com  
----
+
