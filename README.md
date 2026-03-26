@@ -153,17 +153,22 @@ streamlit run app.py
 ```
 customer-churn-prediction/
 │
-├── Data/                          # Add dataset here (not tracked in git)
+├── Data/                              # Add dataset here (not tracked in git)
 │   └── .gitkeep
 │
-├── churn_analysis.ipynb           # EDA and feature insights
-├── logistic_regression_numpy.py   # Logistic Regression from scratch
-├── utils.py                       # Preprocessing and feature loading
-├── train.py                       # Training + evaluation pipeline
-├── requirements.txt               # Pinned dependencies
-├── app.py
-├── churn_model.pkl             
-└── README.md
+├── src/                         
+│   ├── utils.py                       # Preprocessing and feature loading
+│   ├── train.py                       # Training + evaluation pipeline
+│   └── logistic_regression_numpy.py   # Logistic Regression from scratch
+│ 
+├── notebooks/                         
+│   └── churn_analysis.ipynb           # EDA and feature insights
+│ 
+├── requirements.txt                   # Pinned dependencies
+├── app.py                             # Streamlit app (entry point)
+├── churn_model.pkl                    # Saved trained pipeline
+├── README.md                          # Documentation
+├── .gitignore                         # Ignore unnecessary files
 ```
 
 
