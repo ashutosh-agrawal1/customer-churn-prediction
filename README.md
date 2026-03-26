@@ -2,20 +2,20 @@
 
 ### Logistic Regression --- From Scratch (NumPy) vs Production Pipeline
 
-
+---
 
 ## 🚀 Live Demo
 👉 [Live App](https://customer-churn-prediction-rzhmfqhz8hozpmfqwnggxu.streamlit.app)
 
 
-
+---
 ## 💡 Why this project?
 
 Built to demonstrate logistic regression from first principles on a
 real-world churn problem, and translate predictions into actionable
 business decisions through a deployable, user-facing application.
 
-
+---
 
 ## ⭐ Project Highlights
 
@@ -26,7 +26,7 @@ business decisions through a deployable, user-facing application.
 -   Business-oriented insights with actionable recommendations\
 -   Clear comparison between theoretical and production ML approaches
 
-
+---
 
 ## 🖥️ App Preview
 
@@ -43,7 +43,7 @@ Users can input: - Tenure (months)\
 -   Key churn drivers\
 -   Recommended business actions
 
-
+---
 
 ## 📌 Project Overview
 
@@ -57,7 +57,7 @@ and focuses on:
 -   Building a production-ready ML pipeline\
 -   Translating predictions into business decisions
 
-
+---
 
 ## 📊 Exploratory Data Analysis
 
@@ -68,7 +68,7 @@ Key insights:
 -   Higher monthly charges increase churn probability\
 -   Long-term contracts correlate with strong retention
 
-
+---
 
 ## 🧠 Model Implementation
 
@@ -84,7 +84,7 @@ Key insights:
 -   Ensures consistent preprocessing\
 -   Prevents train--inference mismatch
 
-
+---
 
 ## 📈 Results
 
@@ -97,14 +97,14 @@ Key insights:
 | ROC-AUC | 0.821 | 0.823 |
 
 
-
+---
 ## 💼 Business Interpretation
 
 -   Low tenure customers are high risk\
 -   Month-to-month contracts increase churn\
 -   High charges increase churn probability
 
-
+---
 
 ## 🧠 Business Story
 
@@ -115,7 +115,7 @@ Instead of just predicting churn, this system explains:
 
 This turns the model into a decision-making tool.
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -123,7 +123,7 @@ This turns the model into a decision-making tool.
 -   Streamlit\
 -   Matplotlib
 
-
+---
 
 ## ▶️ How to Run
 
@@ -145,7 +145,7 @@ Run app:
 streamlit run app.py
 ```
 
-
+---
 ## 📂 Project Structure
 
 ```
@@ -176,7 +176,7 @@ pandas==2.0.3
 matplotlib==3.7.2
 streamlit
 ```
-
+---
 
 
 ## 📌 Limitations
@@ -185,7 +185,7 @@ streamlit
 - Single train-test split — no cross-validation yet
 - Limited to features available in this dataset
 
-
+---
 
 ## 🔮 Future Improvements
 
@@ -197,7 +197,7 @@ streamlit
 - [ ] Threshold tuning for business-specific optimization
 - [ ] Enhanced feature set (TotalCharges, InternetService, etc.)
 
-
+---
 
 ## 👨‍💻 Author
 
