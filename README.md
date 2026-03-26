@@ -205,6 +205,6 @@ streamlit
 **Ashutosh Agrawal**
 ECE Undergraduate
 
-[GitHub](https://github.com/ashutosh-agrawal1) · [LinkedIn](https://www.linkedin.com/in/ashutosh-agrawal-823753238) · [X]([https://www.linkedin.com/in/ashutosh-agrawal-823753238](https://x.com/hey_its_ashh))
+[GitHub](https://github.com/ashutosh-agrawal1) · [LinkedIn](https://www.linkedin.com/in/ashutosh-agrawal-823753238) · [X](https://www.linkedin.com/in/ashutosh-agrawal-823753238](https://x.com/hey_its_ashh))
 
 ---
