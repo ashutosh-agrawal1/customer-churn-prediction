@@ -5,8 +5,7 @@
 
 
 ## 🚀 Live Demo
-
-👉 [https://your-app-link.streamlit.app](https://customer-churn-prediction-rzhmfqhz8hozpmfqwnggxu.streamlit.app)
+👉 [Live App](https://customer-churn-prediction-rzhmfqhz8hozpmfqwnggxu.streamlit.app)
 
 
 
