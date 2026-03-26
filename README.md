@@ -60,6 +60,23 @@ and focuses on:
 -   Translating predictions into business decisions
 
 
+## 📂 Dataset
+
+**Telco Customer Churn Dataset**  
+Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
+
+> ⚠️ Dataset is not included in this repository.  
+> Download it from Kaggle and place the CSV file in the `data/` folder before running the project.
+
+### Dataset Details
+- ~7,000 customer records  
+- Churn rate: ~26–27% (imbalanced)  
+- Features include:
+  - Customer tenure  
+  - Monthly charges  
+  - Contract type  
+  - Billing and service details  
+
 
 ## 📊 Exploratory Data Analysis
 
