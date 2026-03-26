@@ -16,10 +16,11 @@ def load_features(filepath):
     contract_raw = np.char.strip(data[:,contract_index].astype(str))
     contract_month = (contract_raw == "Month-to-month").astype(int)
     contract_year = (contract_raw == "One year").astype(int)
+    contract_2year = (contract_raw == "Two year").astype(int)
 
 
 
-    X = np.column_stack((tenure, monthly,contract_month,contract_year))
+    X = np.column_stack((tenure, monthly,contract_month,contract_year, contract_2year))
     y = churn
 
     return X, y
