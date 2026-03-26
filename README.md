@@ -204,7 +204,13 @@ streamlit
 
 **Ashutosh Agrawal**
 ECE Undergraduate
+## 👨‍💻 Author
 
-[GitHub](https://github.com/ashutosh-agrawal1) · [LinkedIn](https://www.linkedin.com/in/ashutosh-agrawal-823753238) · [X](https://www.linkedin.com/in/ashutosh-agrawal-823753238](https://x.com/hey_its_ashh))
+**Ashutosh Agrawal**  
+ECE Undergraduate  
 
+- GitHub: https://github.com/ashutosh-agrawal1  
+- LinkedIn: https://www.linkedin.com/in/ashutosh-agrawal-823753238  
+- X: https://x.com/hey_its_ashh  
+- Email: ashutosh69003@gmail.com  
 ---
