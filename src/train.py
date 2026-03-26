@@ -14,8 +14,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
-from logistic_regression_numpy import LogisticRegression as NumpyLR
-from utils import load_features
+from src.logistic_regression_numpy import LogisticRegression as NumpyLR
+from src.utils import load_features
 
 
 def evaluate_model(name, y_true, y_pred, y_prob):
