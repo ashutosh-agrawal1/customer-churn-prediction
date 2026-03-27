@@ -85,19 +85,19 @@ Exploratory Data Analysis was performed using a Jupyter Notebook:
 📁 notebooks/churn_analysis.ipynb
 
 Key steps in EDA:
-	•	Data cleaning and preprocessing
-	•	Handling missing values and feature formatting
-	•	Distribution analysis of key variables
-	•	Correlation and relationship analysis between features and churn
-	•	Visualization of churn patterns across customer segments
+	- Data cleaning and preprocessing
+	- Handling missing values and feature formatting
+	- Distribution analysis of key variables
+	- Correlation and relationship analysis between features and churn
+	- Visualization of churn patterns across customer segments
 
 Key insights:
-	•	Customers with tenure < 12 months show significantly higher churn
-	•	Month-to-month contracts have the highest churn rate
-	•	Higher monthly charges increase churn probability
-	•	Long-term contracts correlate with strong retention
+	- Customers with tenure < 12 months show significantly higher churn
+	- Month-to-month contracts have the highest churn rate
+	- Higher monthly charges increase churn probability
+	- Long-term contracts correlate with strong retention
 
-👉 These insights directly informed feature selection and model design.
+> 👉 These insights directly informed feature selection and model design.
 
 
 
