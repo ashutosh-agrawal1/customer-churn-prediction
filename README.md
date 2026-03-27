@@ -21,11 +21,11 @@ business decisions through a deployable, user-facing application.
 
 ## ⭐ Project Highlights
 
--   End-to-end ML pipeline on a real business dataset\
--   Logistic Regression implemented from scratch using NumPy\
--   Production-ready implementation using scikit-learn Pipeline\
--   Interactive Streamlit app for real-time churn prediction\
--   Business-oriented insights with actionable recommendations\
+-   End-to-end ML pipeline on a real business dataset
+-   Logistic Regression implemented from scratch using NumPy
+-   Production-ready implementation using scikit-learn Pipeline
+-   Interactive Streamlit app for real-time churn prediction
+-   Business-oriented insights with actionable recommendations
 -   Clear comparison between theoretical and production ML approaches
 
 
@@ -34,15 +34,15 @@ business decisions through a deployable, user-facing application.
 
 ### 🔍 Input Panel
 
-Users can input: - Tenure (months)\
-- Monthly Charges\
+Users can input: - Tenure (months)
+- Monthly Charges
 - Contract Type
 
 ### 📊 Output
 
--   Churn probability\
--   Risk classification (Low / Medium / High)\
--   Key churn drivers\
+-   Churn probability
+-   Risk classification (Low / Medium / High)
+-   Key churn drivers
 -   Recommended business actions
 
 
