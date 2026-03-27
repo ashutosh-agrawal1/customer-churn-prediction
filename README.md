@@ -106,14 +106,14 @@ Exploratory Data Analysis was performed using a Jupyter Notebook:
 
 ### NumPy --- From Scratch
 
--   Sigmoid activation\
--   Binary cross-entropy loss\
+-   Sigmoid activation
+-   Binary cross-entropy loss
 -   Gradient descent
 
 ### Production Model --- Pipeline
 
--   StandardScaler + LogisticRegression\
--   Ensures consistent preprocessing\
+-   StandardScaler + LogisticRegression
+-   Ensures consistent preprocessing
 -   Prevents train--inference mismatch
 
 
@@ -132,8 +132,8 @@ Exploratory Data Analysis was performed using a Jupyter Notebook:
 
 ## 💼 Business Interpretation
 
--   Low tenure customers are high risk\
--   Month-to-month contracts increase churn\
+-   Low tenure customers are high risk
+-   Month-to-month contracts increase churn
 -   High charges increase churn probability
 
 
@@ -142,7 +142,7 @@ Exploratory Data Analysis was performed using a Jupyter Notebook:
 
 Instead of just predicting churn, this system explains:
 
--   Why the customer may churn\
+-   Why the customer may churn
 -   What actions should be taken
 
 This turns the model into a decision-making tool.
@@ -151,8 +151,8 @@ This turns the model into a decision-making tool.
 
 ## 🛠️ Tech Stack
 
--   Python (NumPy, Pandas, Scikit-learn)\
--   Streamlit\
+-   Python (NumPy, Pandas, Scikit-learn)
+-   Streamlit
 -   Matplotlib
 
 
