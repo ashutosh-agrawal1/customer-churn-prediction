@@ -97,7 +97,7 @@ Key insights:
 	- Higher monthly charges increase churn probability
 	- Long-term contracts correlate with strong retention
 
-> 👉 These insights directly informed feature selection and model design.
+👉 These insights directly informed feature selection and model design.
 
 
 
