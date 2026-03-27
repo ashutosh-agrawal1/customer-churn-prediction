@@ -78,7 +78,7 @@ Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
   - Billing and service details  
 
 
-##📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis was performed using a Jupyter Notebook:
 
